@@ -1,1 +1,1 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3djcDg5dHZndnB0d296amZvY3lmdTM3cmw1cXFkb2g4cXd1cGI1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="Binary Code Animation" style="width: 100%; height: auto; display: block;">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3djcDg5dHZndnB0d296amZvY3lmdTM3cmw1cXFkb2g4cXd1cGI1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="Binary Code Animation" width="100%">
