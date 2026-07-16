@@ -1,5 +1,16 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnprdWZrNnJkZnRpd2M4MGZ2bzI2MGhpMHZoazE4bHhjdWJxdHoxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Hareketli Arka Plan" width="500">
-
+<!-- Bu div, animasyonu kapsayacak ve tüm genişliği kaplayacak -->
+<div style="width: 100%; overflow: hidden;">
+  
+  <!-- Bu img etiketi, animasyon görselini yükleyecek -->
+  <!-- 'width: 100%' ile görselin yatayda tüm alanı kaplamasını sağlıyoruz -->
+  <!-- 'height: auto' ile görselin oranını korumasını sağlıyoruz -->
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3djcDg5dHZndnB0d296amZvZ3lmdTM3cmw1cXFkb2g4cXd1cGI1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" 
+    alt="Binary Code Animation" 
+    style="width: 100%; height: auto; display: block;"
+  >
+  
+</div>
 <!--
 **guvenzencir/guvenzencir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
