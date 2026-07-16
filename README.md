@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnprdWZrNnJkZnRpd2M4MGZ2bzI2MGhpMHZoazE4bHhjdWJxdHoxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Hareketli Arka Plan" width="100%">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnprdWZrNnJkZnRpd2M4MGZ2bzI2MGhpMHZoazE4bHhjdWJxdHoxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Hareketli Arka Plan" width="500">
 
 <!--
 **guvenzencir/guvenzencir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
