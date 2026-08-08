@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1500&color=00FF00&background=0A0A0A&center=true&vCenter=true&width=800&height=120&lines=G%C3%BCven+Zencir;Siber+G%C3%BCvenlik+%26+A%C4%9F+Savunmas%C4%B1;Sentinel-AI+%26+ARP-Shield+Geli%C5%9Ftiricisi" alt="Güven Zencir Siber Güvenlik Terminal Animasyonu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&pause=2000&color=00FFFF&background=00000000&center=true&vCenter=true&width=800&height=150&lines=G%C3%9CVEN+ZENC%C4%B0R;G%C3%9CVEN+ZENC%C4%B0R" alt="Güven Zencir" />
 </div>
