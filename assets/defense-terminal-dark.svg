@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="285" viewBox="0 0 960 285" role="img" aria-labelledby="title desc"><title id="title">Blue Team defense terminal</title><desc id="desc">Cybersecurity student focused on Blue Team. Learning network traffic analysis, log analysis and incident response fundamentals. This terminal is a decorative animation.</desc><style>text{font-family:'DejaVu Sans Mono',Consolas,monospace;fill:#e9f5ff}.m{fill:#9db3c8}.c{fill:#26e6ed}.b{fill:#609dff}.g{fill:#71efb0}
+ .pulse{animation:pulse 2.4s ease-in-out infinite}.cursor{animation:blink 1s steps(2,end) infinite}.scan{animation:scan 5s linear infinite}.flow{stroke-dasharray:8 12;animation:flow 1.2s linear infinite}
+ .s1{animation:s1 12s steps(1,end) infinite}.s2{opacity:0;animation:s2 12s steps(1,end) infinite}.s3{opacity:0;animation:s3 12s steps(1,end) infinite}
+ @keyframes pulse{50%{opacity:.35}}@keyframes blink{50%{opacity:0}}@keyframes scan{0%{transform:translateY(0);opacity:0}10%{opacity:.8}90%{opacity:.8}100%{transform:translateY(190px);opacity:0}}@keyframes flow{to{stroke-dashoffset:-40}}
+ @keyframes s1{0%,100%{opacity:1}33.33%{opacity:0}}@keyframes s2{0%,66.66%,100%{opacity:0}33.33%{opacity:1}}@keyframes s3{0%,100%{opacity:0}66.66%{opacity:1}}
+ @media(prefers-reduced-motion:reduce){.pulse,.cursor,.scan,.flow,.s1,.s2,.s3{animation:none}.scan,.s2,.s3{display:none}}
+ </style><defs><filter id="glow" x="-25%" y="-50%" width="150%" height="200%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#233a53" stroke-width=".6" opacity=".45"/></pattern></defs><rect x="1" y="1" width="958" height="283" rx="20" fill="#090e18" stroke="#233a53"/>
+ <rect x="20" y="18" width="920" height="249" rx="12" fill="#101b2c" stroke="#233a53"/>
+ <circle cx="40" cy="38" r="4" fill="#26e6ed"/><circle cx="56" cy="38" r="4" fill="#609dff"/><circle cx="72" cy="38" r="4" fill="#71efb0"/>
+ <text x="95" y="43" font-size="12" class="m">defense-terminal / guvenzencir</text><text x="917" y="43" text-anchor="end" font-size="10" class="m">ANIMATED PROFILE</text>
+ <path d="M21 58H939" stroke="#233a53"/>
+ <text x="40" y="92" font-size="15" class="c">$ whoami</text>
+ <text x="40" y="122" font-size="15">Cybersecurity student focused on Blue Team.</text>
+ <text x="40" y="152" font-size="13" class="m">Learning to understand traffic, investigate logs and respond.</text>
+ <text x="40" y="188" font-size="15" class="c">$ focus --blue-team</text>
+ <g font-size="16"><text x="40" y="224" class="g s1">&gt; Network traffic analysis</text><text x="40" y="224" class="g s2">&gt; Log analysis &amp; investigation</text><text x="40" y="224" class="g s3">&gt; Incident response fundamentals</text></g>
+ <rect x="760" y="210" width="9" height="17" fill="#26e6ed" class="cursor"/>
+ <rect x="852" y="76" width="54" height="2" fill="#26e6ed" class="scan" opacity=".3"/>
+ <text x="40" y="249" font-size="10" class="m">OBSERVE / INVESTIGATE / DEFEND</text>
+ </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc"><title id="title">Güven Zencir — Blue Team</title><desc id="desc">Cybersecurity and network defense. Computer Engineering student at Kayseri University. Animated shield and neon header.</desc><style>text{font-family:'DejaVu Sans Mono',Consolas,monospace;fill:#e9f5ff}.m{fill:#9db3c8}.c{fill:#26e6ed}.b{fill:#609dff}.g{fill:#71efb0}
+ .pulse{animation:pulse 2.4s ease-in-out infinite}.cursor{animation:blink 1s steps(2,end) infinite}.scan{animation:scan 5s linear infinite}.flow{stroke-dasharray:8 12;animation:flow 1.2s linear infinite}
+ .s1{animation:s1 12s steps(1,end) infinite}.s2{opacity:0;animation:s2 12s steps(1,end) infinite}.s3{opacity:0;animation:s3 12s steps(1,end) infinite}
+ @keyframes pulse{50%{opacity:.35}}@keyframes blink{50%{opacity:0}}@keyframes scan{0%{transform:translateY(0);opacity:0}10%{opacity:.8}90%{opacity:.8}100%{transform:translateY(190px);opacity:0}}@keyframes flow{to{stroke-dashoffset:-40}}
+ @keyframes s1{0%,100%{opacity:1}33.33%{opacity:0}}@keyframes s2{0%,66.66%,100%{opacity:0}33.33%{opacity:1}}@keyframes s3{0%,100%{opacity:0}66.66%{opacity:1}}
+ @media(prefers-reduced-motion:reduce){.pulse,.cursor,.scan,.flow,.s1,.s2,.s3{animation:none}.scan,.s2,.s3{display:none}}
+ </style><defs><filter id="glow" x="-25%" y="-50%" width="150%" height="200%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#233a53" stroke-width=".6" opacity=".45"/></pattern></defs><rect x="1" y="1" width="958" height="298" rx="20" fill="#090e18" stroke="#233a53"/>
+ <rect x="18" y="18" width="924" height="264" rx="14" fill="url(#grid)"/>
+ <circle cx="36" cy="33" r="4" fill="#26e6ed" class="pulse"/><text x="50" y="38" font-size="12" class="m">guvenzencir / defense mode</text>
+ <text x="38" y="120" font-size="54" letter-spacing="1" font-weight="700" class="c" filter="url(#glow)">GÜVEN ZENCİR</text>
+ <text x="41" y="165" font-size="22" letter-spacing="5" font-weight="700" class="b">BLUE TEAM</text>
+ <text x="41" y="202" font-size="14" class="m">CYBERSECURITY · NETWORK DEFENSE</text>
+ <text x="41" y="239" font-size="12" class="m">Computer Engineering Student / Kayseri University</text>
+ <g transform="translate(752 66)" fill="none" stroke="#26e6ed">
+ <circle cx="60" cy="78" r="75" opacity=".13"/><circle cx="60" cy="78" r="94" opacity=".1"/>
+ <path d="M60 0L119 25V79C119 120 91 148 60 163C29 148 1 120 1 79V25Z" fill="#101b2c" stroke-width="2.5"/>
+ <path d="M60 20L101 38V78C101 106 83 128 60 141C37 128 19 106 19 78V38Z" opacity=".35"/>
+ <path d="M38 78l15 16 32-37" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" class="pulse"/>
+ </g>
+ <path d="M40 268H920" stroke="#233a53"/><path d="M40 268H920" stroke="#26e6ed" class="flow" opacity=".7"/>
+ </svg>
